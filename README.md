@@ -8,7 +8,7 @@
  <hr>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
  <code><img height="32"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
- <code><img height="32"src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://cdnlogo.com/logo/javascript_70428.html)"></code>
+ <code><img height="32"src="https://cdnlogo.com/logo/javascript_70428.html"></code>
   <code><img height="32"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
 
 
